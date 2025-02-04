@@ -13,3 +13,7 @@ Lưu ý: Tắt Tường Lửa để nhìn thấy và vào mạng Game !
 
 Nếu bạn thích App này có thể Donate ủng hộ tôi ^^ (Click vào Support and Donate)
 
+
+=> Cập nhật v25.2.5.1:
+
+* Sửa lỗi không thể VÀO GAME trên một số máy (do Windows hoặc lỗi gì đó)
