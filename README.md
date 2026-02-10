@@ -21,3 +21,5 @@ Nếu thích App này có thể Donate ủng hộ tôi ^^ (Click vào Hỗ trợ
 * Bản AOE HD đã được chỉnh Hardest AI (computer) tối ưu hơn, mạnh hơn cho anh em đánh offline
 
 AoE1Play
+
+<img width="638" height="910" alt="aoe1play" src="https://github.com/user-attachments/assets/f509eb37-0830-4fbd-9d38-a94cf929f26a" />
